@@ -136,7 +136,7 @@ Follow these steps to prepare the development environment for DevKit:
         "arduino.path": "/home/{username}/Downloads/arduino-1.8.8",
         "arduino.additionalUrls": "https://raw.githubusercontent.com/VSChina/azureiotdevkit_tools/master/package_azureboard_index.json"
         ```
-   Restart Visual Studio Code
+   Restart Visual Studio Code.
    
 6. Click `F1` to open the command palette, type and select **Arduino: Board Manager**. Search for **AZ3166** and install the latest version.
     ![Install DevKit SDK]({{"/assets/images/getting-started/install-az3166-sdk.png" | absolute_url }})
